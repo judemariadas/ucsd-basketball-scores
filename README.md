@@ -14,7 +14,8 @@ This script parses Genius Sports basketball XML game data and exports performanc
 - Python 3.7 or higher
 - `pandas` package
 
-Install dependencies with:
+## Example
 
 ```bash
-pip install -r requirements.txt
+python parse_ucsd_game.py data/example_game.xml --output ucsd_stats.csv
+
