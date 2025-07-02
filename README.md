@@ -17,5 +17,5 @@ This script parses Genius Sports basketball XML game data and exports performanc
 ## Usage
 
 ```bash
-python parse_ucsd_game.py data/example_game.xml --output ucsd_stats.csv
+python get_ucsd_data.py data/example_game.xml --output ucsd_stats.csv
 
